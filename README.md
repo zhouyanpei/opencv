@@ -1,20 +1,18 @@
-## OpenCV: Open Source Computer Vision Library
+>周延培  2019年4月19周 工作周报
 
-### Resources
+# 工作内容和成果
+1. 调研车道线检测的算法，主要研究SCNN,deeplabV3,deeplabV3_plus,PSPnet网络，在tensorflow框架下，用SCNN,deeplabV3,deeplabV3_plus三种网络训练了模型，目前只测试了deeplabV3模型，效果不好，还在研究中。
+2. 熟悉了解tensorRT
+3. 学习docker相关知识
 
-* Homepage: <https://opencv.org>
-* Docs: <https://docs.opencv.org/master/>
-* Q&A forum: <http://answers.opencv.org>
-* Issue tracking: <https://github.com/opencv/opencv/issues>
+> 大事小事都可以列，不多于10条
 
-### Contributing
+# 自我评定
 
-Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
+项目| 评分 | 原因
+---|---|---
+工作成果| 3| 论文源码基本熟悉，二分类分割可以训练。
+工作投入度| 3| 领域、环境区别较大，还需学习适应。
 
-#### Summary of the guidelines:
-
-* One pull request per issue;
-* Choose the right base branch;
-* Include tests and documentation;
-* Clean up "oops" commits before submitting;
-* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+# 建议
+暂无
